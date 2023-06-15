@@ -4,10 +4,15 @@ This repository contains the source code for my personal portfolio website. The 
 Table of Contents
 
 -Introduction
+
 -Features
+
 -Installation
+
 -Usage
+
 -Folder Structure
+
 -Contributing
 
 
