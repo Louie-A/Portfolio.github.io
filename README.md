@@ -3,22 +3,17 @@ This repository contains the source code for my personal portfolio website. The 
 
 Table of Contents
 
-Introduction
-
-Features
-
-Installation
-
-Usage
-
-Folder Structure
-
-Contributing
+-Introduction
+-Features
+-Installation
+-Usage
+-Folder Structure
+-Contributing
 
 
 # Introduction
 Welcome to my personal portfolio website! This project serves as a showcase of my work and provides an overview of my skills, projects, and experiences. It is designed to provide visitors with a clear understanding of my background and abilities.
-The website is built using HTML and CSS, ensuring a lightweight and responsive design. It incorporates various sections to present information about me, my projects, and my contact details. The website is intended to be easily customizable, allowing you to adapt it to your own needs.
+The website is built using HTML and CSS, ensuring a lightweight and responsive design. It incorporates various sections to present information about me, my projects, and my contact details. The website is intended to be easily customizable, allowing you to adapt it to your own needs. The demo link : https://louie-a.github.io/Portfolio.github.io/
 
 # Features
 Responsive Design: The website is built with responsiveness in mind, ensuring that it looks great on different devices and screen sizes.
